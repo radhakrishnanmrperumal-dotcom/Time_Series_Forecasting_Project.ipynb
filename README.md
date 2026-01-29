@@ -1,4 +1,4 @@
-# Time Series Forecasting Project - Comprehensive Analysis
+# Time Series Forecasting Project 
 
 ## Executive Summary
 
